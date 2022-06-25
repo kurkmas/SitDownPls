@@ -1,2 +1,2 @@
 # SitDownPls
-[SitDownPls.ru](http://kurkmas.github.io/SitDownPls/dist "Сайт SitDownPls на GithubPages")
+[SitDownPls](http://kurkmas.github.io/SitDownPls/dist "Сайт SitDownPls на GithubPages")
